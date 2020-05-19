@@ -1,0 +1,25 @@
+{
+  "name": "testhapi_env",
+  "version": "1.0.0",
+  "description": "Testing a new deployment service provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "serbver",
+    "express",
+    "route",
+    "authentication",
+    "secure",
+    "https",
+    "http",
+    "auth0"
+  ],
+  "author": "Marcus Tan",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  }
+}
