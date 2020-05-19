@@ -19,7 +19,6 @@
   ],
   "author": "Marcus Tan",
   "license": "MIT",
-  "repository": "https://github.com/marcustanx/hapi_server.git",
   "dependencies": {
     "@hapi/hapi": "^19.1.1"
   }
