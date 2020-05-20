@@ -2,7 +2,7 @@
   "name": "testhapi_env",
   "version": "1.0.0",
   "description": "Testing a new deployment service provider",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,6 +21,10 @@
   "license": "MIT",
   "repository": "https://github.com/marcustanx/hapi_server.git",
   "dependencies": {
-    "@hapi/hapi": "^19.1.1"
+    "@hapi/hapi": "^19.1.1",
+    "animate.css": "^4.1.0",
+    "hapi": "^18.1.0",
+    "nodemon": "^2.0.4",
+    "vision": "^5.4.4"
   }
 }
